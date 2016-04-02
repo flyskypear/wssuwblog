@@ -1,4 +1,4 @@
-% Ying Zhang May, 2015
+% Ying Zhang May, 2015, modified for wssuwblog tutorial April, 2016
 % calculate RPS and RPSS
 
 clear all
